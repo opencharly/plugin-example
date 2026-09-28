@@ -1,7 +1,5 @@
-version: 2026.232.0520
 plugin-example:
     candy:
-        version: 2026.176.1400
         description: |-
             Reference plugin candy for the `exampleprobe` check verb (a deterministic
             pass-with-marker probe). Its Go lives IN the candy (importable provider
